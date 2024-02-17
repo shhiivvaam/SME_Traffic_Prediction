@@ -1,10 +1,7 @@
-## Enhanced Traffic Volume Prediction Using Neural Networks
+## || Enhanced Traffic Volume Prediction Using Neural Networks || ✅
 
 Welcome to our repository dedicated to advancing traffic prediction through state-of-the-art neural network architectures, including the Multi-Layer Perceptron (MLP), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU). Our models are meticulously trained and evaluated on extensive historical traffic data sourced from diverse junctions.
 
-### Introduction
-
-Anticipating traffic patterns is pivotal for effective urban planning, transportation management, and resource allocation. Accurate forecasts empower authorities to optimize traffic flow, bolster safety measures, and mitigate congestion. Our endeavor focuses on developing machine learning models adept at forecasting future traffic volumes, leveraging historical trends and environmental variables.
 
 ### Dataset Details
 
@@ -13,6 +10,7 @@ Our dataset, meticulously curated from [mention source or collection methodology
 * **Feature Engineering:** Unveiling pertinent features like year, month, day, hour, and day of the week from DateTime.
 * **Normalization:** Standardizing numerical features to ensure uniform model training.
 * **Data Segmentation:** Partitioning the dataset into training and testing subsets to facilitate rigorous model evaluation.
+
 
 ### Getting Started
 
@@ -57,11 +55,3 @@ Renowned for its prowess in capturing long-term dependencies, LSTM stands tall a
 ### Model Evaluation
 
 We meticulously evaluate model performance using industry-standard metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE). These metrics provide invaluable insights into the accuracy and robustness of our models. Additionally, we generate comparative plots to visually juxtapose predicted traffic volumes against actual values, facilitating qualitative assessment.
-
-### Contribution Guidelines
-
-We embrace contributions to this project wholeheartedly! Whether you harbor suggestions for enhancements, stumble upon issues, or aspire to introduce novel features, we encourage you to open an issue or submit a pull request. Together, we can refine and fortify the accuracy of traffic prediction models.
-
-### Licensing Information
-
-Our project operates under the permissive MIT License, affording you the freedom to modify, distribute, and utilize the code for both commercial and non-commercial endeavors. Refer to the [LICENSE](https://chat.openai.com/c/LICENSE) file for comprehensive details.
